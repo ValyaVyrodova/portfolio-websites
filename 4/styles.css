@@ -237,15 +237,17 @@ align-items: center;
     padding-left: 21px;
 }
 
+.text-offers_offer {
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 40.35px;
+}
+
 .text-offers_trend {
     position: absolute;
     left: 30px;
     top: 62px;
-    font-weight: 800;
-    font-size: 26px;
-    line-height: 40.35px;
     color: #001AA2;
-
 }
 
 .text-offers_trend > p {
@@ -266,11 +268,7 @@ align-items: center;
     position: absolute;
     left: 30px;
     top: 62px;
-    font-weight: 800;
-    font-size: 26px;
-    line-height: 40.35px;
     color: #FD2E24;
-
 }
 
 .text-offers_Buy > p {
